@@ -15,7 +15,7 @@ img{
     width: 100%;
 }
 .Image-Collag{
-    height: calc((100 - 5)/2);
+    height: calc((100% - 5px)/2);
 
 }
 
